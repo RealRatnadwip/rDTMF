@@ -6,9 +6,9 @@
 
 ## Screenshot of rDTMF 
 
-![Screenshot of rDTMF](https://raw.githubusercontent.com/TheRealRatnadwip/rDTMF/main/Additional%20Assests/screenshot_v1.2.png)
+![Screenshot of rDTMF](https://raw.githubusercontent.com/RealRatnadwip/rDTMF/main/Additional%20Assests/screenshot_v1.2.png)
 
-<img src= "https://raw.githubusercontent.com/TheRealRatnadwip/rDTMF/main/Additional%20Assests/notextico.png" width="80" height="80">  The logo of the Software
+<img src= "https://raw.githubusercontent.com/RealRatnadwip/rDTMF/main/Additional%20Assests/notextico.png" width="80" height="80">  The logo of the Software
 
 
 ## Download & Install
